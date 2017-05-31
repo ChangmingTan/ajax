@@ -1,0 +1,17 @@
+[30-May-2017 21:13:16 America/Chicago] PHP Parse error:  syntax error, unexpected '{' in /home/tina/public_html/328/ajax/showphrase.php on line 3
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/tina/public_html/328/ajax/lookup.php on line 18
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/tina/public_html/328/ajax/lookup.php on line 19
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'color' in /home/tina/public_html/328/ajax/lookup.php on line 20
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home/tina/public_html/328/ajax/lookup.php on line 21
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/tina/public_html/328/ajax/lookup.php on line 18
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/tina/public_html/328/ajax/lookup.php on line 19
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'color' in /home/tina/public_html/328/ajax/lookup.php on line 20
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home/tina/public_html/328/ajax/lookup.php on line 21
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/tina/public_html/328/ajax/lookup.php on line 18
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/tina/public_html/328/ajax/lookup.php on line 19
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'color' in /home/tina/public_html/328/ajax/lookup.php on line 20
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home/tina/public_html/328/ajax/lookup.php on line 21
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'id' in /home/tina/public_html/328/ajax/lookup.php on line 18
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'name' in /home/tina/public_html/328/ajax/lookup.php on line 19
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'color' in /home/tina/public_html/328/ajax/lookup.php on line 20
+[30-May-2017 22:20:27 America/Chicago] PHP Warning:  Illegal string offset 'type' in /home/tina/public_html/328/ajax/lookup.php on line 21

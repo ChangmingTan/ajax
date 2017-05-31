@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Show Phrase</title>
+</head>
+
+<body>
+    <h2>Show me a phrase</h2>
+    <label>Name: <input type="text" id="name"></label>
+    <button id="button">Go!</button>
+    <div id="phrase"></div>
+    
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script>
+        $("#button").click(function(){
+            var username = $("#name").val();
+           $("#phrase").load("showphrase.php", { name: username, num: 3 });
+        });
+    </script>
+</body>
+</html>

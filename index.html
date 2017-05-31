@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Find-a-Pet</title>
+</head>
+
+<body>
+    <h2>Find-a-Pet</h2>
+    <label>Enter a pet name: <input type="text" id="pet-name"></label>
+   
+    <button id="show">Lookup</button>
+    <div id="detail"></div>
+    
+    <script src="http://code.jquery.com/jquery.js"></script>
+    <script>
+        $("#show").click(function(){
+            var petName = $('#pet-name').val();
+            $.post("lookup.php", { petname:petName }, function(result){
+                $("#detail").html(result);
+            });
+        });
+    </script>
+</body>
+</html>
